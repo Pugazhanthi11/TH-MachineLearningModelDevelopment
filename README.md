@@ -1,4 +1,4 @@
-# MachineLearningModelDevelopment
+# Machine Learning Model Development
 
 For this, I built a simple machine learning model using the COVID-19 dataset created in the previous tasks.
 
